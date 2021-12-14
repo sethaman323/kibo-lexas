@@ -10,7 +10,7 @@
 </template>
 
 <script>
-import FooterImagesSection from './contentpage/section';
+import FooterImagesSection from './contentpage/Section';
 
 export default {
   components: {
