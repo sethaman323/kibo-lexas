@@ -49,7 +49,7 @@
 //import { SfFooter, SfList, SfImage, SfMenuItem } from '@storefront-ui/vue';
 import { useContent } from 'vsf-lexascms';
 import { onSSR } from '@vue-storefront/core';
-import FooterImages from '~/components/FooterImages.vue';
+import FooterImages from '~/components/FooterImages';
 
 export default {
   components: {
